@@ -3,13 +3,18 @@
 ## This is an starter app
 
 we will provide:
-- [X] react-router with code splitting by route.
-- [X] redux store.
-- [X] local data storage in an indexed Db using localForage with redux actions.
-- [X] Optimistic updates for POST/PUT/DELETE.
-- [X] based on Create React App.
-- [X] we will provide a node installer.
+- [] eslint, airbnb rules, prettier.
+- [] react-router with code splitting by route.
+- [] redux store.
+- [] local data storage in an indexed Db using localForage with redux actions.
+- [] authentication using Auth0
+- [] login-screen
+- [] Optimistic updates for POST/PUT/DELETE.
+- [] based on Create React App.
+- [] we will provide a node installer.
+- [] node api with express, docker
 
+You can start building your web-app straight away :).
 
 ## ---------------------------------------------------------------
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
