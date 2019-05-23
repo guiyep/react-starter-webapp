@@ -7,12 +7,12 @@ we will provide:
 - [] react-router with code splitting by route.
 - [] redux store.
 - [] local data storage in an indexed Db using localForage with redux actions.
-- [] authentication using Auth0
-- [] login-screen
+- [] authentication using Auth0.
+- [] login-screen.
 - [] Optimistic updates for POST/PUT/DELETE.
 - [] based on Create React App.
 - [] we will provide a node installer.
-- [] node api with express, docker
+- [] node api with express, docker.
 
 You can start building your web-app straight away :).
 
